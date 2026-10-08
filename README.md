@@ -1,1 +1,1 @@
-![Alt Text](/Users/pranjaysingh/Desktop/LLDREPO/ParkingLotThreadSafe.png)
+![Alt Text](ParkingLotThreadSafe.png)
